@@ -1,0 +1,23 @@
+.navbar{
+  height: 200px;
+  background-color: magenta;
+}
+
+.nav-link{
+font-size: 40px;
+font-family: cursive;
+}
+
+.nab-nav{
+ margin-left: 20%;
+}
+
+.nav-link{
+    font-size: 40px;
+    font-family: cursive;
+}
+.container-fluid{
+    height: 50px;
+    background-color: rgb(78, 9, 72);
+}
+    
